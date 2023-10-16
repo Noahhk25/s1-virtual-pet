@@ -62,4 +62,16 @@ public class VirtualPet {
     public void happy(){
         face.setImage("ecstatic");
     }
+    public void skeleton(){
+        face.setImage("skeleton");
+    }
+    public void flower(){
+        face.setImage("pushingdaisies");
+    }
+    public void optimusPrime(){
+        face.setImage("optimus prime");
+    }
+    public void dieScreen(){
+        face.setImage(optimus_prime.jpg);
+    }
 } // end Virtual Pet
