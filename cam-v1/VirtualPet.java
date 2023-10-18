@@ -69,9 +69,12 @@ public class VirtualPet {
         face.setImage("pushingdaisies");
     }
     public void optimusPrime(){
-        face.setImage("optimus prime");
+        face.setImage("optimusprime");
     }
     public void dieScreen(){
-        face.setImage(optimus_prime.jpg);
+        face.setImage("dieScreen");
+    }
+    public void starving(){
+        face.setImage("starving");
     }
 } // end Virtual Pet
